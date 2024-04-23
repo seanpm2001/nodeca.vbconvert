@@ -10,7 +10,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "lodash": "^4.17.21",
-    "mysql2": "^2.1.0",
+    "mysql2": "^3.9.7",
     "path-to-regexp": "=2.4.0",
     "phpunserialize": "~1.0.1"
   }
